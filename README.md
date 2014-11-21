@@ -1,5 +1,9 @@
 First responders, Standards of cover, Emergency management and computer aided dispatch
 ==========================================================
+Useful links
+------------
+
+http://wiki.gis.com/wiki/index.php/GIS_and_Firefighting
 
 Video
 -----
