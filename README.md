@@ -4,6 +4,8 @@ Useful links
 ------------
 
 http://wiki.gis.com/wiki/index.php/GIS_and_Firefighting
+http://www.preparedresponse.com/Rapid-Responder-Emergency-Preparedness-Crisis-Management-Overview.html
+
 
 Video
 -----
